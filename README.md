@@ -32,7 +32,7 @@
 <i style="font-weight:normal;color:grey">I learn ton of things and language</i>
 <br>theses are the main language i've been working with (not in order):
 
-![Basic](https://img.shields.io/badge/Visual_Basic-green?logo=visualbasic) ![Pascal](https://img.shields.io/badge/Pascal-grey?logo=pascal) ![Javascript](https://img.shields.io/badge/Javascript-yellow?logo=javascript) ![Python](https://img.shields.io/badge/Python-gold?logo=Python) ![Java](https://img.shields.io/badge/Java-white?logo=Java) ![lua](https://img.shields.io/badge/lua-yellow?logo=lua) ![Php](https://img.shields.io/badge/Php-A865C9?logo=Php) ![C](https://img.shields.io/badge/C-grey?logo=C) ![React](https://img.shields.io/badge/React-blue?logo=React)
+![Basic](https://img.shields.io/badge/Visual_Basic-green?logo=visualbasic) ![Pascal](https://img.shields.io/badge/Pascal-grey?logo=pascal) ![Javascript](https://img.shields.io/badge/Javascript-yellow?logo=javascript) ![Python](https://img.shields.io/badge/Python-gold?logo=Python) ![Java](https://img.shields.io/badge/Java-white?logo=Java) ![lua](https://img.shields.io/badge/lua-yellow?logo=lua) ![Php](https://img.shields.io/badge/Php-A865C9?logo=Php) ![C](https://img.shields.io/badge/C-grey?logo=C) ![React](https://img.shields.io/badge/React-blue?logo=React) ![Go](https://img.shields.io/badge/Go-33BFF0?logo=Go)
 
 ## Projects
 
@@ -48,12 +48,12 @@
 </details>
 
 <details open>
-   <summary><b>School Project</b></summary>
+   <summary><b>School Projects</b></summary>
 
    * [![Pingumail](https://img.shields.io/badge/Pingumail-Go-6AD7E6?logo=go)](https://github.com/LaCapitainerie/Logic-Render) **CLI mail system** to work on **linux**, **installed under a minute**
    * [![Bomberman](https://img.shields.io/badge/Bomberman-C-white?logo=node.js)](https://github.com/Skalefou/bomberman) Bomberman **multiplayer** game with **level editor** made in C with SDL2
-   * [![Santeconnect](https://img.shields.io/badge/Santeconnect-PHP-A865C9?logo=php)](https://github.com/BySajed/santeconnect) **Active Website** to make medical appointments online
-   
+   * [![Go Calendar](https://img.shields.io/badge/Go_Calendar-Go-6AD7E6?logo=go)](https://github.com/BySajed/Go-Calendar) **Planning System** made in golang
+   * [![Santeconnect](https://img.shields.io/badge/Santeconnect-PHP-A865C9?logo=php)](https://github.com/BySajed/santeconnect) **Active Website** to make medical appointments online   
    
 </details>
 
