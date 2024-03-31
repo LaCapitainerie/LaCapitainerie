@@ -50,7 +50,7 @@
 <details open>
    <summary><b>School Projects</b></summary>
 
-   * [![Pingumail](https://img.shields.io/badge/Pingumail-Go-6AD7E6?logo=go)](https://github.com/LaCapitainerie/Logic-Render) **CLI mail system** to work on **linux**, **installed under a minute**
+   * [![Pingumail](https://img.shields.io/badge/Pingumail-Go-6AD7E6?logo=go)](https://github.com/LaCapitainerie/Pingumail) **CLI mail system** to work on **linux**, **installed under a minute**
    * [![Bomberman](https://img.shields.io/badge/Bomberman-C-white?logo=c)](https://github.com/Skalefou/bomberman) Bomberman **multiplayer** game with **level editor** made in C with SDL2
    * [![Go Calendar](https://img.shields.io/badge/Go_Calendar-Go-6AD7E6?logo=go)](https://github.com/BySajed/Go-Calendar) **Planning System** made in golang
    * [![Santeconnect](https://img.shields.io/badge/Santeconnect-PHP-A865C9?logo=php)](https://github.com/BySajed/santeconnect) **Active Website** to make medical appointments online   
