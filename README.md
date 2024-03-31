@@ -11,7 +11,7 @@
 
 - And i'm **actively researching** about **optimising** some stuff like the [<kbd>Bresenham algorithm](https://github.com/LaCapitainerie/Bresenham)
 
-## Working domain [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin)](https://www.linkedin.com/in/l%C3%A9on-pupier0420/)
+## Working domain [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin)](https://www.linkedin.com/in/hugo-antreassian-60807824b/)
 
 <h4> Microsoft Dynamics developper</h4>
 <i style="font-weight:normal;color:grey">Where I was in charge of developing an application to manage accounting and benefits</i>
