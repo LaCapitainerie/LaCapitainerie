@@ -13,6 +13,8 @@
 
 - And i'm **actively researching** about **optimising** some stuff like the [<kbd>Bresenham algorithm](https://github.com/LaCapitainerie/Bresenham)
 
+- Active developer on opensource project [<kbd>Openvas Reporting](https://github.com/TheGroundZero/openvasreporting)
+
 ## Working domain [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin)](https://www.linkedin.com/in/hugo-antreassian-60807824b/)
 
 <h4> Microsoft Dynamics developper</h4>
@@ -32,9 +34,46 @@
 
 <h4> Through my journey</h4>
 <i style="font-weight:normal;color:grey">I learn ton of things and language</i>
-<br>theses are the main language i've been working with (not in order):
+<br>theses are the main i've been working with :
 
-![Basic](https://img.shields.io/badge/Visual_Basic-green?logo=visualbasic) ![Pascal](https://img.shields.io/badge/Pascal-grey?logo=pascal) ![Javascript](https://img.shields.io/badge/Javascript-yellow?logo=javascript) ![Python](https://img.shields.io/badge/Python-gold?logo=Python) ![Java](https://img.shields.io/badge/Java-white?logo=Java) ![lua](https://img.shields.io/badge/lua-yellow?logo=lua) ![Php](https://img.shields.io/badge/Php-A865C9?logo=Php) ![C](https://img.shields.io/badge/C-grey?logo=C) ![React](https://img.shields.io/badge/React-blue?logo=React) ![Go](https://img.shields.io/badge/Go-33BFF0?logo=Go)
+<table>
+   <tr>
+       <th>Web Front</th>
+       <th>Web Back</th>
+       <th>ML</th>
+       <th>Game Dev</th>
+   </tr>
+   <tr>
+      <td>
+         <p align="center">
+           <a href="https://skillicons.dev">
+             <img src="https://skillicons.dev/icons?i=html,css,less,tailwind,js,jquery,nodejs,ts,react,latex,figma,androidstudio&perline=3" />
+           </a>
+         </p>
+      </td>
+      <td>
+         <p align="center">
+           <a href="https://skillicons.dev">
+             <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,express,electron,php,go,py,kotlin,mysql,postgres,sqlite,nginx,bash,vim,git&perline=3" />
+           </a>
+         </p>
+      </td>
+      <td>
+         <p align="center">
+           <a href="https://skillicons.dev">
+             <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,py,tensorflow,sklearn&perline=3" />
+           </a>
+         </p>
+      </td>
+      <td>
+         <p align="center">
+           <a href="https://skillicons.dev">
+             <img src="https://skillicons.dev/icons?i=c,cpp,lua,unity,unreal&perline=3" />
+           </a>
+         </p>
+      </td>
+  </tr>
+</table>
 
 ## Projects
 
