@@ -1,5 +1,7 @@
 <h1>LaCapitainerie's profile ⚓</h1>
 
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=LaCapitainerie&theme=prussian)](https://git.io/streak-stats) -->
+
 ## A bit of Presentation
 
 - An **active developper** and a **mathematical searcher**
