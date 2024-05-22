@@ -2,8 +2,8 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=LaCapitainerie&theme=prussian)](https://git.io/streak-stats) -->
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LaCapitainerie&show_icons=true&theme=tokyonight) -->
-
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LaCapitainerie&show_icons=true&theme=tokyonight&rank_icon=percentile) -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonPupier&show_icons=true&theme=tokyonight) -->
 
 ## A bit of Presentation
 
