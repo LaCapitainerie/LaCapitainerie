@@ -25,15 +25,17 @@
 
 ![Excel](https://img.shields.io/badge/Excel-Nexity-red?logo=microsoftexcel&logoColor=green)
 ![Power Powerapps](https://img.shields.io/badge/Power_Apps-Nexity-red?logo=powerapps&logoColor=E287C8)
-![Power Automate](https://img.shields.io/badge/Power_Automate-CNPP-blue?logo=PowerAutomate&logoColor=3486F2)
-![PowerBI](https://img.shields.io/badge/Power_BI-CNPP-blue?logo=powerbi)
+![Power Automate](https://img.shields.io/badge/Power_Automate-Nexity-red?logo=PowerAutomate&logoColor=3486F2)
+![PowerBI](https://img.shields.io/badge/Power_BI-Nexity-red?logo=powerbi)
 
 <h4> Security Operation Center Analyst</h4>
-<i style="font-weight:normal;color:grey">Where I was in charge of security of multiple society</i>
+<i style="font-weight:normal;color:grey">Where i helped developping a SIEM with Graylog, <br>i also developed an opensource tools to export Openvas report and did the same for Outpost24,<br>finaly, i work on an application to map devices and application on perimeter and correlate them with new CVE to see outdated device</i>
 
 ![Power Automate](https://img.shields.io/badge/Power_Automate-CNPP-blue?logo=PowerAutomate&logoColor=3486F2)
 ![Openvas](https://img.shields.io/badge/Openvas-CNPP-blue?logo=Openvas)
+![Outpost24](https://img.shields.io/badge/Outpost-CNPP-blue?logo=Outpost)
 ![Microsoft Defender](https://img.shields.io/badge/Defender_for_Endpoint-CNPP-blue?logo=microsoft&logoColor=33BFF0)
+![Graylog](https://img.shields.io/badge/Graylog-CNPP-blue?logo=Graylog)
 
 <h4> Through my journey</h4>
 <i style="font-weight:normal;color:grey">I learn ton of things and language</i>
@@ -43,10 +45,13 @@
    <tr>
        <th>Web Front</th>
        <th>Web Back</th>
+       <th>Continuous Integration</th>
        <th>ML</th>
        <th>Game Dev</th>
+      <th>Currently Learning</th>
    </tr>
    <tr>
+      <!-- Web Front -->
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
@@ -54,13 +59,23 @@
            </a>
          </p>
       </td>
+      <!-- Web Back -->
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,express,electron,php,go,py,kotlin,mysql,postgres,sqlite,nginx,bash,vim,git&perline=3" />
+             <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,express,electron,php,go,py,kotlin,mysql,postgres,sqlite,nginx,bash,vim,git,stripe&perline=3" />
            </a>
          </p>
       </td>
+      <!-- CI -->
+      <td>
+         <p align="center">
+           <a href="https://skillicons.dev">
+             <img src="https://skillicons.dev/icons?i=github,githubactions,docker&perline=3" />
+           </a>
+         </p>
+      </td>
+      <!-- ML -->
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
@@ -68,10 +83,19 @@
            </a>
          </p>
       </td>
+      <!-- Game Dev -->
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
              <img src="https://skillicons.dev/icons?i=c,cpp,lua,unity,unreal&perline=3" />
+           </a>
+         </p>
+      </td>
+      <!-- Currently Learning -->
+      <td>
+         <p align="center">
+           <a href="https://skillicons.dev">
+             <img src="https://skillicons.dev/icons?i=gatsby,astro,graphql,obsidian,prisma,remix,vite&perline=3" />
            </a>
          </p>
       </td>
