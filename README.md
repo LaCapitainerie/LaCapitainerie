@@ -87,7 +87,7 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=c,cpp,lua,unity,unreal&perline=3" />
+             <img src="https://skillicons.dev/icons?i=c,cpp,lua,unity,unreal,godot&perline=3" />
            </a>
          </p>
       </td>
@@ -95,7 +95,7 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=gatsby,astro,graphql,obsidian,prisma,remix,vite&perline=3" />
+             <img src="https://skillicons.dev/icons?i=gatsby,astro,remix,graphql,obsidian,prisma,remix,vite,deno,fortran&perline=3" />
            </a>
          </p>
       </td>
