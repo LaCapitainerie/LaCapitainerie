@@ -106,7 +106,8 @@
 
 <details open>
    <summary><b>Personal projects</b></summary>
-
+   
+   * [![PointCentral](https://img.shields.io/badge/PointCentral-NextJs-51675B?logo=react)](https://pointcentral.com) **Saas** to centralize all the Saas you could need
    * [![Bresenham](https://img.shields.io/badge/Bresenham-javascript-yellow?logo=javascript)](https://github.com/LaCapitainerie/Bresenham) The famous line algorithm **optimised** to turn on GC
    * [![Logic Render](https://img.shields.io/badge/Logic_Render-javascript-yellow?logo=javascript)](https://github.com/LaCapitainerie/Logic-Render) A **3D renderer** only made in **logic gates**
    * [![50 Shades of Py](https://img.shields.io/badge/50_Shades_Of_Py-python-gold?logo=python)](https://github.com/LaCapitainerie/50-Shades-of-py) **Convert** a templated image to any **color palette** you want
@@ -117,7 +118,8 @@
 
 <details open>
    <summary><b>School Projects</b></summary>
-
+   
+   * [![NoMoreWaste](https://img.shields.io/badge/NoMoreWaste-NextJs-51675B?logo=react)](https://github.com/LaCapitainerie/NoMoreWaste) **Saas** to back up unsell product and give them to association
    * [![Pingumail](https://img.shields.io/badge/Pingumail-Go-6AD7E6?logo=go)](https://github.com/LaCapitainerie/Pingumail) **CLI mail system** to work on **linux**, **installed under a minute**
    * [![Bomberman](https://img.shields.io/badge/Bomberman-C-white?logo=c)](https://github.com/Skalefou/bomberman) Bomberman **multiplayer** game with **level editor** made in C with SDL2
    * [![Go Calendar](https://img.shields.io/badge/Go_Calendar-Go-6AD7E6?logo=go)](https://github.com/BySajed/Go-Calendar) **Planning System** made in golang
