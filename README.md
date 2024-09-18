@@ -119,6 +119,7 @@
 
 <details open>
    <summary><b>School Projects</b></summary>
+   
    * [![NoMoreWaste](https://img.shields.io/badge/NoMoreWaste-NextJs-51675B?logo=react)](https://github.com/LaCapitainerie/NoMoreWaste) **Saas** to back up unsell product and give them to association
    * [![Pingumail](https://img.shields.io/badge/Pingumail-Go-6AD7E6?logo=go)](https://github.com/LaCapitainerie/Pingumail) **CLI mail system** to work on **linux**, **installed under a minute**
    * [![Bomberman](https://img.shields.io/badge/Bomberman-C-white?logo=c)](https://github.com/Skalefou/bomberman) Bomberman **multiplayer** game with **level editor** made in C with SDL2
