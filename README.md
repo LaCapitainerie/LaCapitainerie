@@ -34,6 +34,7 @@
 ![Power Automate](https://img.shields.io/badge/Power_Automate-CNPP-blue?logo=PowerAutomate&logoColor=3486F2)
 ![Openvas](https://img.shields.io/badge/Openvas-CNPP-blue?logo=Openvas)
 ![Outpost24](https://img.shields.io/badge/Outpost-CNPP-blue?logo=Outpost)
+![PCIScanner](https://img.shields.io/badge/PCI_Scanner-CNPP-blue?logo=PCIScanner)
 ![Microsoft Defender](https://img.shields.io/badge/Defender_for_Endpoint-CNPP-blue?logo=microsoft&logoColor=33BFF0)
 ![Graylog](https://img.shields.io/badge/Graylog-CNPP-blue?logo=Graylog)
 
@@ -118,7 +119,6 @@
 
 <details open>
    <summary><b>School Projects</b></summary>
-   
    * [![NoMoreWaste](https://img.shields.io/badge/NoMoreWaste-NextJs-51675B?logo=react)](https://github.com/LaCapitainerie/NoMoreWaste) **Saas** to back up unsell product and give them to association
    * [![Pingumail](https://img.shields.io/badge/Pingumail-Go-6AD7E6?logo=go)](https://github.com/LaCapitainerie/Pingumail) **CLI mail system** to work on **linux**, **installed under a minute**
    * [![Bomberman](https://img.shields.io/badge/Bomberman-C-white?logo=c)](https://github.com/Skalefou/bomberman) Bomberman **multiplayer** game with **level editor** made in C with SDL2
