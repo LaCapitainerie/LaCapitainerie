@@ -56,7 +56,7 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,html,css,tailwind,lit,js,ts,less,latex,figma,androidstudio&perline=3" />
+             <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,obsidian,html,css,tailwind,lit,js,ts,less,latex,figma,androidstudio&perline=3" />
            </a>
          </p>
       </td>
@@ -64,7 +64,7 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=go,php,nodejs,express,java,py,fastapi,kotlin,mysql,postgres,sqlite,nginx,bash,vim,git&perline=3" />
+             <img src="https://skillicons.dev/icons?i=prisma,go,php,nodejs,express,java,py,fastapi,kotlin,mysql,postgres,sqlite,nginx,bash,vim,git&perline=3" />
            </a>
          </p>
       </td>
@@ -96,7 +96,7 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=gatsby,astro,remix,graphql,obsidian,prisma,vite,deno,fortran,prometheus,supabase,sentry&perline=3" />
+             <img src="https://skillicons.dev/icons?i=gatsby,astro,remix,graphql,vite,deno,fortran,prometheus,supabase,sentry&perline=3" />
            </a>
          </p>
       </td>
