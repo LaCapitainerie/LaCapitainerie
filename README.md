@@ -80,7 +80,7 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,py,tensorflow,sklearn&perline=3" />
+             <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,py,tensorflow,matlab,sklearn&perline=3" />
            </a>
          </p>
       </td>
@@ -96,7 +96,7 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=gatsby,astro,remix,graphql,vite,deno,fortran,prometheus,supabase,sentry&perline=3" />
+             <img src="https://skillicons.dev/icons?i=elasticsearch,gatsby,astro,remix,apollo,graphql,vite,deno,fortran,prometheus,supabase,sentry&perline=3" />
            </a>
          </p>
       </td>
