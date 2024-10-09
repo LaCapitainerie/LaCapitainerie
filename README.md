@@ -96,7 +96,7 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=elasticsearch,gatsby,astro,remix,apollo,graphql,vite,deno,fortran,prometheus,supabase,sentry&perline=3" />
+             <img src="https://skillicons.dev/icons?i=elasticsearch,gatsby,astro,remix,apollo,graphql,vite,deno,fortran,prometheus,supabase,sentry,jest&perline=3" />
            </a>
          </p>
       </td>
