@@ -31,12 +31,12 @@
 <h4> Security Operation Center Analyst</h4>
 <i style="font-weight:normal;color:grey">Where i helped developping a SIEM with Graylog, <br>i also developed an opensource tools to export Openvas report and did the same for Outpost24,<br>finaly, i work on an application to map devices and application on perimeter and correlate them with new CVE to see outdated device</i>
 
-![Power Automate](https://img.shields.io/badge/Power_Automate-CNPP-blue?logo=PowerAutomate&logoColor=3486F2)
-![Openvas](https://img.shields.io/badge/Openvas-CNPP-blue?logo=Openvas)
-![Outpost24](https://img.shields.io/badge/Outpost-CNPP-blue?logo=Outpost)
-![PCIScanner](https://img.shields.io/badge/PCI_Scanner-CNPP-blue?logo=PCIScanner)
-![Microsoft Defender](https://img.shields.io/badge/Defender_for_Endpoint-CNPP-blue?logo=microsoft&logoColor=33BFF0)
 ![Graylog](https://img.shields.io/badge/Graylog-CNPP-blue?logo=Graylog)
+![Microsoft Defender](https://img.shields.io/badge/Defender_for_Endpoint-CNPP-blue?logo=Defender&logoColor=33BFF0)
+![Outpost24](https://img.shields.io/badge/Outpost-CNPP-blue?logo=Outpost)
+![Openvas](https://img.shields.io/badge/Openvas-CNPP-blue?logo=Openvas)
+![PCIScanner](https://img.shields.io/badge/PCI_Scanner-CNPP-blue?logo=PCIScanner)
+![Power Automate](https://img.shields.io/badge/Power_Automate-CNPP-blue?logo=PowerAutomate&logoColor=3486F2)
 
 <h4> Through my journey</h4>
 <i style="font-weight:normal;color:grey">I learn ton of things and language</i>
