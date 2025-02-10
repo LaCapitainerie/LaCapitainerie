@@ -7,7 +7,7 @@
 
 ## A bit of Presentation
 
-- An **active developper** and a **mathematical searcher**
+- An **active developper** and a **mathematical researcher**
 [![My Blogger](https://img.shields.io/badge/My_Blogger-Math_For_Dev-yellow?logo=blogger)](https://mathfordev.blogspot.com/)
 
 - That's why you'll always see **incomprehensible math** in my code
@@ -106,15 +106,22 @@
 ## Projects
 
 <details open>
+   <summary><b>Saas</b></summary>
+   
+   * [![NextOutpost](https://img.shields.io/badge/NextOutpost-NextJs-000000?logo=react)]() Cybersecurity Web Service to produce asv scan on perimeter.
+   * [![GithubSetup](https://img.shields.io/badge/GithubSetup-NextJs-000000?logo=react)]() Web service to easily create github repo template and share them with the community to easily setup a github project with their corresponding Issues, Milestones, Readme, ...
+   * [![Secret](https://img.shields.io/badge/Secret-NextJs-000000?logo=react)]() WIP.
+</details>
+   
+
+<details open>
    <summary><b>Personal projects</b></summary>
    
-   * [![PointCentral](https://img.shields.io/badge/PointCentral-NextJs-51675B?logo=react)](https://pointcentral.com) **Saas** to centralize all the Saas you could need
-   * [![Bresenham](https://img.shields.io/badge/Bresenham-javascript-yellow?logo=javascript)](https://github.com/LaCapitainerie/Bresenham) The famous line algorithm **optimised** to turn on GC
-   * [![Logic Render](https://img.shields.io/badge/Logic_Render-javascript-yellow?logo=javascript)](https://github.com/LaCapitainerie/Logic-Render) A **3D renderer** only made in **logic gates**
-   * [![50 Shades of Py](https://img.shields.io/badge/50_Shades_Of_Py-python-gold?logo=python)](https://github.com/LaCapitainerie/50-Shades-of-py) **Convert** a templated image to any **color palette** you want
-   * [![Jafar](https://img.shields.io/badge/Jafar-python-gold?logo=python)](https://github.com/LaCapitainerie/Logic-Render) A **Standard Deviation Reducer** to calculate the **best random possibilites**
-   * [![Gilbot](https://img.shields.io/badge/Gilbot-node.js-green?logo=node.js)](https://github.com/LaCapitainerie/Logic-Render) **Web application** to listen to **any music** in background and **sync it to discord**
-   
+   * [![Bresenham](https://img.shields.io/badge/Bresenham-javascript-yellow?logo=javascript)](https://github.com/LaCapitainerie/Bresenham) The famous line algorithm **optimised** to turn on physical GPU.
+   * [![Logic Render](https://img.shields.io/badge/Logic_Render-javascript-yellow?logo=javascript)](https://github.com/LaCapitainerie/Logic-Render) A **3D renderer** only made in **logic gates**.
+   * [![50 Shades of Py](https://img.shields.io/badge/50_Shades_Of_Py-python-gold?logo=python)](https://github.com/LaCapitainerie/50-Shades-of-py) **Convert** a templated image to any **color palette** you want.
+   * [![Jafar](https://img.shields.io/badge/Jafar-python-gold?logo=python)](https://github.com/LaCapitainerie/Logic-Render) A **Standard Deviation Reducer** to calculate the **best random possibilites**.
+   * [![Gilbot](https://img.shields.io/badge/Gilbot-node.js-green?logo=node.js)](https://github.com/LaCapitainerie/Logic-Render) **Web application** to listen to **any music** in background and **sync it to discord**.
 </details>
 
 <details open>
