@@ -49,14 +49,14 @@
        <th>Continuous Integration</th>
        <th>ML</th>
        <th>Game Dev</th>
-      <th>Currently Learning</th>
+      <!--<th>Currently Learning</th>-->
    </tr>
    <tr>
       <!-- Web Front -->
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,obsidian,html,css,tailwind,lit,js,ts,less,latex,jest,figma,androidstudio&perline=3" />
+             <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,lit,bootstrap,js,ts,less,latex,jest,figma,androidstudio&perline=3" />
            </a>
          </p>
       </td>
@@ -64,7 +64,7 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=prisma,go,php,nodejs,express,java,py,fastapi,kotlin,apollo,graphql,mysql,postgres,sqlite,nginx,bash,vim,git&perline=3" />
+             <img src="https://skillicons.dev/icons?i=prisma,go,php,nodejs,express,java,py,fastapi,kotlin,mysql,postgres,sqlite&perline=3" />
            </a>
          </p>
       </td>
@@ -92,14 +92,22 @@
            </a>
          </p>
       </td>
-      <!-- Currently Learning -->
+      <!-- Currently Learning
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
              <img src="https://skillicons.dev/icons?i=elasticsearch,gatsby,astro,remix,vite,deno,fortran,prometheus,supabase,sentry&perline=3" />
            </a>
          </p>
-      </td>
+      </td>-->
+      <!-- Removed
+      <td>
+         <p align="center">
+           <a href="https://skillicons.dev">
+             <img src="https://skillicons.dev/icons?i=html,css,obsidian,apollo,graphql,nginx,bash,vim,git&perline=3" />
+           </a>
+         </p>
+      </td>-->
   </tr>
 </table>
 
@@ -136,7 +144,7 @@
 </details>
 
 <!-------------------------------------------------------------- Statistics -------------------------------------------------------------->
-
+<!--
 ## GitHub Statistics
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaCapitainerie&theme=transparent"/>
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaCapitainerie&theme=transparent"
