@@ -56,7 +56,7 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,lit,bootstrap,js,ts,less,latex,jest,figma,androidstudio&perline=3" />
+             <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,lit,bootstrap,less,latex,jest,figma,androidstudio&perline=3" />
            </a>
          </p>
       </td>
@@ -64,7 +64,7 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=prisma,go,php,nodejs,express,java,py,fastapi,kotlin,mysql,postgres,sqlite&perline=3" />
+             <img src="https://skillicons.dev/icons?i=express,nodejs,prisma,go,php,java,py,fastapi,kotlin,mysql,postgres,sqlite&perline=3" />
            </a>
          </p>
       </td>
@@ -109,6 +109,24 @@
          </p>
       </td>-->
   </tr>
+</table>
+
+<table>
+   <tr>
+       <th>Actual Stack</th>
+   </tr>
+   <tr>
+      <!-- Actual Stack -->
+      <td>
+         <div style="display: flex; flex-direction: row; gap: .5rem;">
+            <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,express,prisma,postgresql,pnpm" style="height: 48px"  />
+            <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" style="height: 48px" />
+            <img src="https://avatars.githubusercontent.com/u/139895814?v=4&s=160" style="height: 48px;" />
+            <img src="https://zod.dev/logo/logo-glow.png" style="height: 48px;" />
+            <img src="https://avatars.githubusercontent.com/u/163827765?v=4&s=160" style="height: 48px;" />
+         </div>
+      </td>
+   </tr>
 </table>
 
 ## Projects
