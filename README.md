@@ -46,17 +46,16 @@
    <tr>
        <th>Web Front</th>
        <th>Web Back</th>
-       <th>Continuous Integration</th>
+       <th>DevOps</th>
        <th>ML</th>
-       <th>Game Dev</th>
-      <!--<th>Currently Learning</th>-->
+      <th>Currently Learning</th>
    </tr>
    <tr>
       <!-- Web Front -->
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,lit,bootstrap,less,latex,jest,figma,androidstudio&perline=3" />
+             <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,figma&perline=3" />
            </a>
          </p>
       </td>
@@ -64,15 +63,15 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=express,nodejs,prisma,go,php,java,py,fastapi,kotlin,mysql,postgres,sqlite&perline=3" />
+             <img src="https://skillicons.dev/icons?i=nodejs,fastapi,java,graphql,prisma,go,php,py,express,mysql,postgres,sqlite&perline=4" />
            </a>
          </p>
       </td>
-      <!-- CI -->
+      <!-- DevOps -->
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=github,githubactions,docker&perline=3" />
+             <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,github,&perline=3" />
            </a>
          </p>
       </td>
@@ -80,34 +79,21 @@
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,py,tensorflow,matlab,sklearn&perline=3" />
+             <img src="https://skillicons.dev/icons?i=tensorflow,matlab,sklearn,py,go&perline=3" />
            </a>
          </p>
       </td>
-      <!-- Game Dev -->
+      <!-- Currently Learning -->
       <td>
          <p align="center">
            <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=c,cpp,lua,unity,unreal,godot&perline=3" />
+             <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,sentry,kubernetes,apollo,gcp,azure,aws,jenkins,nestjs,redis,redux&perline=4" />
            </a>
          </p>
       </td>
-      <!-- Currently Learning
-      <td>
-         <p align="center">
-           <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=elasticsearch,gatsby,astro,remix,vite,deno,fortran,prometheus,supabase,sentry&perline=3" />
-           </a>
-         </p>
-      </td>-->
       <!-- Removed
-      <td>
-         <p align="center">
-           <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=html,css,obsidian,apollo,graphql,nginx,bash,vim,git&perline=3" />
-           </a>
-         </p>
-      </td>-->
+     gatsby,astro,remix,vite,deno,fortran,supabase
+      -->
   </tr>
 </table>
 
@@ -128,38 +114,6 @@
       </td>
    </tr>
 </table>
-
-## Projects
-
-<details open>
-   <summary><b>Saas</b></summary>
-   
-   * [![NextOutpost](https://img.shields.io/badge/NextOutpost-NextJs-000000?logo=react)]() Cybersecurity Web Service to produce asv scan on perimeter.
-   * [![GithubSetup](https://img.shields.io/badge/GithubSetup-NextJs-000000?logo=react)]() Web service to easily create github repo template and share them with the community to easily setup a github project with their corresponding Issues, Milestones, Readme, ...
-   * [![Secret](https://img.shields.io/badge/Secret-NextJs-000000?logo=react)]() WIP.
-</details>
-   
-
-<details open>
-   <summary><b>Personal projects</b></summary>
-   
-   * [![Bresenham](https://img.shields.io/badge/Bresenham-javascript-yellow?logo=javascript)](https://github.com/LaCapitainerie/Bresenham) The famous line algorithm **optimised** to turn on physical GPU.
-   * [![Logic Render](https://img.shields.io/badge/Logic_Render-javascript-yellow?logo=javascript)](https://github.com/LaCapitainerie/Logic-Render) A **3D renderer** only made in **logic gates**.
-   * [![50 Shades of Py](https://img.shields.io/badge/50_Shades_Of_Py-python-gold?logo=python)](https://github.com/LaCapitainerie/50-Shades-of-py) **Convert** a templated image to any **color palette** you want.
-   * [![Jafar](https://img.shields.io/badge/Jafar-python-gold?logo=python)](https://github.com/LaCapitainerie/Logic-Render) A **Standard Deviation Reducer** to calculate the **best random possibilites**.
-   * [![Gilbot](https://img.shields.io/badge/Gilbot-node.js-green?logo=node.js)](https://github.com/LaCapitainerie/Logic-Render) **Web application** to listen to **any music** in background and **sync it to discord**.
-</details>
-
-<details open>
-   <summary><b>School Projects</b></summary>
-   
-   * [![NoMoreWaste](https://img.shields.io/badge/NoMoreWaste-NextJs-51675B?logo=react)](https://github.com/LaCapitainerie/NoMoreWaste) **Saas** to back up unsell product and give them to association
-   * [![Pingumail](https://img.shields.io/badge/Pingumail-Go-6AD7E6?logo=go)](https://github.com/LaCapitainerie/Pingumail) **CLI mail system** to work on **linux**, **installed under a minute**
-   * [![Bomberman](https://img.shields.io/badge/Bomberman-C-white?logo=c)](https://github.com/Skalefou/bomberman) Bomberman **multiplayer** game with **level editor** made in C with SDL2
-   * [![Go Calendar](https://img.shields.io/badge/Go_Calendar-Go-6AD7E6?logo=go)](https://github.com/BySajed/Go-Calendar) **Planning System** made in golang
-   * [![Santeconnect](https://img.shields.io/badge/Santeconnect-PHP-A865C9?logo=php)](https://github.com/BySajed/santeconnect) **Active Website** to make medical appointments online   
-   
-</details>
 
 <!-------------------------------------------------------------- Statistics -------------------------------------------------------------->
 <!--
