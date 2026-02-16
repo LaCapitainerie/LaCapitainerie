@@ -54,40 +54,43 @@
       <!-- Web Front -->
       <td>
          <p align="center">
-           <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,figma&perline=3" />
+           <a href="https://github.com/syvixor/skills-icons">
+             <img src="https://skills.syvixor.com/api/icons?perline=4&i=nextjs,reactjs,reactnative,heroui,shadcnui,radixui,tailwindcss,gsap,motion,playwright,pwa,typescript" />
            </a>
          </p>
       </td>
       <!-- Web Back -->
       <td>
          <p align="center">
-           <a href="https://skillicons.dev">
+           <!--<a href="https://skillicons.dev">
              <img src="https://skillicons.dev/icons?i=nodejs,fastapi,java,graphql,prisma,go,php,py,express,mysql,postgres,sqlite&perline=4" />
+           </a>-->
+            <a href="https://github.com/syvixor/skills-icons">
+             <img src="https://skills.syvixor.com/api/icons?perline=6&i=nodejs,java,reactjs,reactnative,expo,betterauth,prisma,python,fastapi,golang,gorm,gin,postgresql,rest,graphql,grpc,resend" />
            </a>
          </p>
       </td>
       <!-- DevOps -->
       <td>
          <p align="center">
-           <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,github,&perline=3" />
+           <a href="https://github.com/syvixor/skills-icons">
+             <img src="https://skills.syvixor.com/api/icons?perline=4&i=githubactions,docker,kubernetes,github" />
            </a>
          </p>
       </td>
       <!-- ML -->
       <td>
          <p align="center">
-           <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=tensorflow,matlab,sklearn,py,go&perline=3" />
+           <a href="https://github.com/syvixor/skills-icons">
+             <img src="https://skills.syvixor.com/api/icons?perline=4&i=tensorflow,matlab,scikitlearn,python,go" />
            </a>
          </p>
       </td>
       <!-- Currently Learning -->
       <td>
          <p align="center">
-           <a href="https://skillicons.dev">
-             <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,sentry,kubernetes,apollo,gcp,azure,aws,jenkins,nestjs,redis,redux&perline=4" />
+           <a href="https://github.com/syvixor/skills-icons">
+             <img src="https://skills.syvixor.com/api/icons?perline=4&i=elasticsearch,prometheus,sentry,kubernetes,apollo,gcp,azure,aws,jenkins,nestjs,redis,redux" />
            </a>
          </p>
       </td>
@@ -104,13 +107,7 @@
    <tr>
       <!-- Actual Stack -->
       <td>
-         <div style="display: flex; flex-direction: row; gap: .5rem;">
-            <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,express,prisma,postgresql,pnpm" style="height: 48px"  />
-            <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" style="height: 48px" />
-            <img src="https://avatars.githubusercontent.com/u/139895814?v=4&s=160" style="height: 48px;" />
-            <img src="https://zod.dev/logo/logo-glow.png" style="height: 48px;" />
-            <img src="https://avatars.githubusercontent.com/u/163827765?v=4&s=160" style="height: 48px;" />
-         </div>
+            <img src="https://skills.syvixor.com/api/icons?perline=15&i=nextjs,tailwindcss,shadcnui,gsap,typescript,betterauth,prisma,zustand,zod,postgresql,playwright,githubactions,bun" />
       </td>
    </tr>
 </table>
