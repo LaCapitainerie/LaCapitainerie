@@ -21,7 +21,7 @@
       <td>
          <p align="center">
            <a href="https://github.com/syvixor/skills-icons">
-             <img src="https://skills.syvixor.com/api/icons?perline=6&i=nextjs,nodejs,nestjs,java,golang,gorm,python,elasticsearch,reactjs,reactnative,expo,betterauth,postgresql,prisma,rest,graphql,soap,grpc,trpc,resend,redis,redux" />
+             <img src="https://skills.syvixor.com/api/icons?perline=6&i=nextjs,nodejs,nestjs,java,golang,gorm,python,elasticsearch,reactjs,reactnative,expo,betterauth,postgresql,prisma,apollo,rest,graphql,soap,grpc,trpc,resend,redis,redux" />
            </a>
          </p>
       </td>
