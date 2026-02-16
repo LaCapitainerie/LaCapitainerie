@@ -66,7 +66,7 @@
              <img src="https://skillicons.dev/icons?i=nodejs,fastapi,java,graphql,prisma,go,php,py,express,mysql,postgres,sqlite&perline=4" />
            </a>-->
             <a href="https://github.com/syvixor/skills-icons">
-             <img src="https://skills.syvixor.com/api/icons?perline=6&i=nodejs,java,reactjs,reactnative,expo,betterauth,prisma,python,fastapi,golang,gorm,gin,postgresql,rest,graphql,grpc,resend" />
+             <img src="https://skills.syvixor.com/api/icons?perline=5&i=nodejs,java,reactjs,reactnative,expo,betterauth,prisma,python,fastapi,golang,gorm,gin,postgresql,rest,graphql,grpc,resend" />
            </a>
          </p>
       </td>
@@ -82,7 +82,7 @@
       <td>
          <p align="center">
            <a href="https://github.com/syvixor/skills-icons">
-             <img src="https://skills.syvixor.com/api/icons?perline=4&i=tensorflow,matlab,scikitlearn,python,go" />
+             <img src="https://skills.syvixor.com/api/icons?perline=4&i=tensorflow,matlab,scikitlearn,python" />
            </a>
          </p>
       </td>
@@ -107,7 +107,7 @@
    <tr>
       <!-- Actual Stack -->
       <td>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=nextjs,tailwindcss,shadcnui,gsap,typescript,betterauth,prisma,zustand,zod,postgresql,playwright,githubactions,bun" />
+         <img src="https://skills.syvixor.com/api/icons?perline=15&i=nextjs,tailwindcss,shadcnui,gsap,typescript,betterauth,prisma,zustand,zod,postgresql,playwright,githubactions,bun" />
       </td>
    </tr>
 </table>
